@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+h1{
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    text-transform: uppercase;
+}
+
+p{
+    font-family: 'Kanit', sans-serif;
+    color: white;
+}
+
+img{
+    border: 5px solid white;
+    height: 600px;
+    width: 100%;
+}
+
+div{
+    padding: 30px;
+    width: 50%;
+    margin-left: 25%;
+}
